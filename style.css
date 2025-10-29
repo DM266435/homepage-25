@@ -58,11 +58,11 @@ input{
    padding:30px;
    clear:both;
    position: relative;
-   right: -525px;
+   right: -675px;
 }
 .bookmarks i{
    font-size:42px;
-   margin:0 40px;
+   margin:0 50px;
    color:#000000;
    transition:.15s;
    vertical-align: top;
@@ -76,7 +76,7 @@ input{
     margin: auto 0;
     position:absolute;
     bottom: 350px;
-    right: 650px;
+    right: 800px;
     display: inline-block;
     font-size: 50px;
     font-family: "BBH Sans Bartle";
